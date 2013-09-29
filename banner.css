@@ -1,0 +1,11 @@
+#top_banner {
+    background: url("./images/icon1024.png") center center transparent;
+    background-size: cover;
+    color: #ffffff;
+    /*text-shadow:
+       1px 1px 0 #010101,
+     -1px -1px 0 #010101,
+      1px -1px 0 #010101,
+      -1px 1px 0 #010101,
+       1px 1px 0 #010101;*/
+}
