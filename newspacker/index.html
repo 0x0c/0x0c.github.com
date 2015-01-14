@@ -34,11 +34,9 @@
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&appId=595287130535635";
-    js.async = true;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&amp;version=v2.0";
     fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-  </script>
+  }(document, 'script', 'facebook-jssdk'));</script>
   <nav class="navbar navbar-inverse" role="navigation">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
