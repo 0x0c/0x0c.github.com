@@ -1,89 +1,33 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <title>0x0c</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script src="javascripts/respond.js"></script>
-  <!--[if lt IE 9]>
-  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <!--[if lt IE 8]>
-  <link rel="stylesheet" href="stylesheets/ie.css">
-  <![endif]-->
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+---
+layout: page
+title: Home
+---
 
-  <!-- Bootstrap -->
-  <link href="./bootstrap-3.0.0/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
-  <script src="./bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>
+<section class="c-archives">
+{% for post in site.posts  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
-  <!-- user script -->
-  <link href="./banner.css" rel="stylesheet" media="screen"></head>
-<body>
-  <div class="container">
-    <div class="page-header">
-      <h1>
-        0x0c
-        <small></small>
-      </h1>
-    </div>
-
-    <nav class="navbar navbar-default" role="navigation">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#">$</a>
-      </div>
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="https://github.com/0x0c">Github</a>
-          </li>
+    {% if forloop.first %}
+        <h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h2>
+        <ul class="c-archives__list">
+    {% endif %}
+        <li class="c-archives__item">
+            <h3>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+              <br>
+              <small>{{post.description}}</small>
+            </h3>
+            <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+        </li>
+    {% if forloop.last %}
         </ul>
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="./newspacker/index.html">NewsPacker</a>
-          </li>
+    {% else %}
+        {% if this_year != next_year %}
         </ul>
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="./ryyder/index.html">ryyder</a>
-          </li>
-        </ul>
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="https://github.com/0x0c/PemPem">PemPem</a>
-          </li>
-        </ul>
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="http://qiita.com/0x0c@github">Qiita</a>
-          </li>
-        </ul>
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="./publications/index.html">Publications</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-    <div id="top_banner" class="jumbotron">
-      <div class="container">
-        <font color="#000000">
-          <h1>ryyder</h1>
-          <p>Simple Live Dwango Reader client.</p>
-        </font>
-        <p>
-          <a class="btn btn-info btn-lg" href="./ryyder/index.html">Learn more</a>
-        </p>
-      </div>
-    </div>
-    <script data-name="0x0c" src="http://octocard.in/o.js"></script>
-  </div>
-</body>
-</html>
+        <h2 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}</h2>
+        <ul class="c-archives__list">
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</section>
