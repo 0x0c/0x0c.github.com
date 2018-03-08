@@ -87,9 +87,9 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll (= 3.4.3)
+  jekyll
   jekyll-livereload
-  rb-fsevent (= 0.9.8)
+  rb-fsevent
 
 BUNDLED WITH
    1.16.1
