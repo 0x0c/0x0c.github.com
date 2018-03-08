@@ -6,7 +6,10 @@ title: Home
 <div class="main-grid">
 {% for image in site.static_files %}
     {% if image.path contains 'project/' %}
-        <img width="31%" src="{{ site.baseurl }}{{ image.path }}"/>
+        {% assign name = image.name | split: "." %}
+            <a href="{{ site.baseurl }}{{ name.first | prepend: "/projects/" | prepend: site.baseurl }}">
+                <img src="{{ site.baseurl }}{{ image.path }}"/>
+            </a>
     {% endif %}
 {% endfor %}
 </div>

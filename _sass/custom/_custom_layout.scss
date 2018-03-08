@@ -4,9 +4,20 @@
   align-items: center;
   align-content: center;
   justify-content: space-between;
-}
+  
+  // img {
+  //   width: 32%;
+  //   padding-bottom: 2%;
+  // }
 
-img {
-  width: 32%;
-  padding-bottom: 2%;
+  a {
+    width: 32%;
+    padding-bottom: 2%;
+    &:hover {
+      &::after {
+        background-color: white;
+        height: 0%;
+      }
+    }
+  }
 }
