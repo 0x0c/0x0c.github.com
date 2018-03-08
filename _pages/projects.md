@@ -5,7 +5,16 @@ permalink: /projects/
 ---
 
 # Research Project
-- [ScalableBody](/projects/scalable_body)
+![](/assets/project/research/scalable_body.jpg)
+
+[ScalableBody](/projects/scalable_body)
 
 # Others
-- [EmoT](/projects/emot)
+![](/assets/project/others/emot.jpg)
+
+[EmoT](/projects/emot)
+
+<hr>
+![](/assets/project/others/groove.jpg)
+
+[GROOVE](/projects/groove)
