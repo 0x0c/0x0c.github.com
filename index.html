@@ -3,6 +3,14 @@ layout: page
 title: Home
 ---
 
+<div style="position: relative;margin: auto;">
+{% for image in site.static_files %}
+    {% if image.path contains 'project/' %}
+        <img width="32%" src="{{ site.baseurl }}{{ image.path }}"/>
+    {% endif %}
+{% endfor %}
+</div>
+
 <section class="c-archives">
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
