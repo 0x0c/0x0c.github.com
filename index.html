@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<div style="position: relative;margin: auto;">
+<div class="main-grid">
 {% for image in site.static_files %}
     {% if image.path contains 'project/' %}
         <img width="31%" src="{{ site.baseurl }}{{ image.path }}"/>
