@@ -10,7 +10,7 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
 
 [Resume](../assets/akira_matsuda.pdf), [ResearchGate](https://www.researchgate.net/profile/Akira_Matsuda5), [Github](https://github.com/0x0c), [LinkedIn](https://www.linkedin.com/in/akira-matsuda-425181140/), [Qiita](https://qiita.com/0x0c@github)
 
-<div class="github-card" data-github="0x0c" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="0x0c" data-width="100%" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 ----
