@@ -9,6 +9,17 @@ permalink: /projects/
 
 [ScalableBody](/projects/scalable_body)
 
+<hr>
+![](/assets/project/research/casper.jpg)
+
+[CASPER: A Haptic Enhanced Telepresence Exercise System for Elderly People](/projects/casper)
+
+<hr>
+![](/assets/project/research/aeonkit.jpg)
+
+[Wearable Device Prototyping Toolkit](/projects/aeonkit)
+
+<hr>
 # Others
 ![](/assets/project/others/emot.jpg)
 
@@ -18,3 +29,13 @@ permalink: /projects/
 ![](/assets/project/others/groove.jpg)
 
 [GROOVE](/projects/groove)
+
+<hr>
+![](/assets/project/others/ambient_pixel.jpg)
+
+[AmbientPixel](/projects/ambient_pixel)
+
+<hr>
+![](/assets/project/others/nusurface.jpg)
+
+[NuSurface](/projects/nusurface)

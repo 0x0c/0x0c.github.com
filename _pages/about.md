@@ -49,7 +49,7 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
 
 ### International conference (oral / non-refereed)
 - **Akira Matsuda**, Hiroyuki Nakamura. **Wearable Assistive Device Development Toolkit**. 31st Annual International Technology and Persons with Disabilities Conference.
-International conference (Demo), 2016.
+International conference, 2016.
 - **Akira Matsuda**, Jun Rekimoto. **ScalableBody: A Telepresence Robot Supporting Socially Acceptable Interactions and Human Augmentation through Vertical Actuation**. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16 Adjunct), 2016.
   - [Here](http://dx.doi.org/10.1145/2984751.2985718 )
 
@@ -64,8 +64,8 @@ International conference (Demo), 2016.
 - **松田 暁**, 中村 広幸, 菅谷 みどり. **Luminous Sound Indicator: 光を用いた音源を察知するための注意喚起デバイス**. HCI, ヒューマンコンピュータインタラクション研究会報告 vol. 2014 (25) p. 1-6. 情報処理学会研究報告. 第157回 ヒューマンコンピュータインタラクション研究会, 2014.
 
 ### Domestic conference (poster / refereed)
-- 門村 亜珠沙, **松田 暁**, 暦本 純一. 2016. **CASPER: 高齢者のための空気砲 を用いた遠隔エクササイズシステム**. 第20回一般社団法人情報処理学会シンポジウム インタラクション2016, 2016. ***ベストインタラクティブ発表賞***
-- **松田 暁**, 中村 広幸. 2015. **ウェアラブルデバイスのプロトタイピングを支援するツールキットの開発**. 第19回一般社団法人情報処理学会シンポジウム インタラクション2015, 2015.
+- 門村 亜珠沙, **松田 暁**, 暦本 純一. **CASPER: 高齢者のための空気砲 を用いた遠隔エクササイズシステム**. 第20回一般社団法人情報処理学会シンポジウム インタラクション2016, 2016. ***ベストインタラクティブ発表賞***
+- **松田 暁**, 中村 広幸. **ウェアラブルデバイスのプロトタイピングを支援するツールキットの開発**. 第19回一般社団法人情報処理学会シンポジウム インタラクション2015, 2015.
 
 ## Grants
 - Project Fund in Summer Founders Program organized by Division of University Corporate Relations (1,500 dolls)
