@@ -24,3 +24,5 @@ sass:
 
 exclude: [vendor]
 
+plugins_dir:
+  - jekyll-redirect-from

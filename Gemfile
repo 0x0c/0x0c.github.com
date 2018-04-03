@@ -6,4 +6,5 @@ gem "rb-fsevent"
 
 group :jekyll_plugins do
       gem 'jekyll-livereload'
+      gem 'jekyll-redirect-from'
 end
