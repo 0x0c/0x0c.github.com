@@ -8,6 +8,8 @@ permalink: /projects/scalable_body
 
 ![](/assets/images/research/scalable_body/sub.jpg)
 
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/y72vOQiT1YE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Seeing one’s partner’s face during remote conversation is one of the most important factors for effective communication. When us- ing a telepresence robot, matching face positions with one’s partner is sometimes difficult, because face position varies in different sit- uations (e.g., standing or sitting). However, existing telepresence robots cannot change their height. Moreover, due to limited cam- era angle, the conversation partner’s face is often partly cut off in the camera view. Therefore, users cannot communicate while see- ing each other’s faces. To overcome these problems, we designed a telepresence robot called ScalableBody. ScalableBody has a ver- tical actuator that allows it to change its height and an omnidirec- tional camera that provides a wide view. The robot facilitates com- munication for different contexts using vertical actuation to match the conversation partners’ face positions. Furthermore, the operator can see a partner’s face in any direction through an omnidirectional camera. This approach can also provide users with the experience of being a different height, as if a giant or a child. In this paper, we describe the vertical actuator mechanism and report our user study on the telepresence robot.
 
 本研究では非言語情報の1つである「身長」に着目し，身長を自由に変更可能なテレプレゼンスロボット「ScalableBody」を提案する．
