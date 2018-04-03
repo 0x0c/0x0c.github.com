@@ -21,6 +21,8 @@ Authors are developing the "tool kit" for developing a prototype of "wearable as
 The tool kit consists of 1) modules of sensors and displays, 2) controlling device, 3) SDK - software development kit. Users of the tool kit are able to select the modules and sensors. They would be able to arrange them with using SDK which meet their own purposes.
 Authors are developing this "wearable assistive device developing tool kit" and made assessments of how it can be helpful for developers and researchers of wearable assistive devices.
 
+ウェアラブルデバイスは著しい発展により様々な分野への応用が期待されている一方，技術的な課題だけでなく社会的な課題も存在する．これらの課題を解決にはデバイス開発者だけでなく，幅広い分野の人たちと議論して開発を進めることが重要である．しかし，議論した結果を検証するにはその内容を反映したウェアラブルデバイスそのものが必要であるにもかかわらず，その分野に精通した開発者でなければウェアラブルデバイスの開発は困難であるのが現状である．本研究では，ウェアラブルデバイス開発の知識に乏しい人向けのプロトタイピングを支援するためのツールキットを提案する．本稿では，ツールキットの概要及び実装したツールキットの内容について紹介する．
+
 ## References
 - Akira Matsuda, Hiroyuki Nakamura. Wearable Assistive Device Development Toolkit. 31st Annual International Technology and Persons with Disabilities Conference. International conference (Demo), 2016. [Page](http://www.csun.edu/cod/conference/2016/sessions/index.php/public/presentations/view/338)
 - **松田 暁**, 中村 広幸. **ウェアラブルデバイスのプロトタイピングを支援するツールキットの開発**. 第19回一般社団法人情報処理学会シンポジウム インタラクション2015, 2015.
