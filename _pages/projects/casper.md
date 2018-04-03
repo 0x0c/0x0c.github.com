@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Wearable Device Prototyping Toolkit
+title: "CASPER: A Haptic Enhanced Telepresence Exercise System for Elderly People"
 permalink: /projects/casper
 ---
 
