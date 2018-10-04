@@ -40,6 +40,7 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
 ## Publication
 ### International conference (oral / refereed)
 - **Akira Matsuda**, Takashi Miyaki, Jun Rekimoto, **ScalableBody: A Telepresence Robot Supporting Face Position Matching using Vertical Actuator**. In Proceedings of the 8th Augmented Human International Conference 2017 (AH'17), 2017.
+  - [Here](https://dl.acm.org/citation.cfm?id=3041182)
 - Azusa Kadomura, **Akira Matsuda**, Jun Rekimoto. **CASPER: A Haptic Enhanced Telepresence Exercise System for Elderly People**. In Proceedings of the 7th Augmented Human International Conference 2016 (AH '16), 2017.
   - [Here](http://dx.doi.org/10.1145/2875194.2875197)
   - Acceptance Rate 15%
@@ -51,7 +52,7 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
 - **Akira Matsuda**, Hiroyuki Nakamura. **Wearable Assistive Device Development Toolkit**. 31st Annual International Technology and Persons with Disabilities Conference.
 International conference, 2016.
 - **Akira Matsuda**, Jun Rekimoto. **ScalableBody: A Telepresence Robot Supporting Socially Acceptable Interactions and Human Augmentation through Vertical Actuation**. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16 Adjunct), 2016.
-  - [Here](http://dx.doi.org/10.1145/2984751.2985718 )
+  - [Here](http://dx.doi.org/10.1145/2984751.2985718)
 
 ### International conference (Poster / refereed)
 - **Akira Matsuda**, Midori Sugaya, Hiroyuki Nakamura. **Luminous device for the deaf and hard of hearing people**. In Proceedings of the second international conference on Human-agent interaction (HAI '14), 2014.
