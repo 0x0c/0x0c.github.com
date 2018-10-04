@@ -17,6 +17,7 @@ Seeing one’s partner’s face during remote conversation is one of the most im
 
 ## References
 
+- 松田暁, 味八木崇, 暦本純一, 伸縮機構と全周囲映像を用いた身長可変型テレプレゼンスロボットの提案. ヒューマンインタフェース学会論文誌 Vol.20, No.3, 2018. DOI: [10.11184/his.20.3_289](https://doi.org/10.11184/his.20.3_289)
 - Akira Matsuda, Takashi Miyaki, and Jun Rekimoto. 2017. ScalableBody: a telepresence robot that supports face position matching using a vertical actuator. In Proceedings of the 8th Augmented Human International Conference (AH ’17). ACM, New York, NY, USA, , Article 13 , 9 pages. DOI: [10.1145/3041164.3041182](https://doi.org/10.1145/3041164.3041182)
 - Akira Matsuda and Jun Rekimoto. 2016. ScalableBody: A Telepresence Robot Supporting Socially Acceptable Interactions and Human Augmentation through Vertical Actuation. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST ’16 Adjunct). ACM, New York, NY, USA, 103-105. DOI: [10.1145/2984751.2985718](https://doi.org/10.1145/2984751.2985718)
 - Akira Matsuda, Jun Rekimoto. ScalableBody : A Telepresence Robot with Vertical Actuation for Face-to-face Communication and Human Augmentation. 1 st Asian Workshop on User Interface (AUI 2016) (国際ワークショップでの口頭 発表，査読有り)
