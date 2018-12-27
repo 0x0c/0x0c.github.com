@@ -40,7 +40,8 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
 ## Publication
 
 ### Journal
-- 
+- 松田暁, 味八木崇, 暦本純一, 伸縮機構と全周囲映像を用いた身長可変型テレプレゼンスロボットの提案. ヒューマンインタフェース学会論文誌 Vol.20, No.3, 2018.
+  - [DOI](https://doi.org/10.11184/his.20.3_289)
 
 ### International conference (oral / refereed)
 - **Akira Matsuda**, Takashi Miyaki, Jun Rekimoto, **ScalableBody: A Telepresence Robot Supporting Face Position Matching using Vertical Actuator**. In Proceedings of the 8th Augmented Human International Conference 2017 (AH'17), 2017.
