@@ -6,6 +6,11 @@ permalink: /projects/
 
 # Research Project
 
+![](/assets/images/research/jack_in_neck/thumb.jpg)
+
+[JackIn Neck](/projects/jack_in_neck)
+
+<hr>
 ![](/assets/images/research/lunavity/thumb.jpg)
 
 [Lunavity](/projects/lunavity)
