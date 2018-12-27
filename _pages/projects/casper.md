@@ -2,6 +2,11 @@
 layout: content
 title: "CASPER: A Haptic Enhanced Telepresence Exercise System for Elderly People"
 permalink: /projects/casper
+image: /assets/images/research/casper/thumb.jpg
+date: 2016-02-26
+tag:
+- 2016
+- research
 ---
 
 ![](/assets/images/research/casper/top.jpg)

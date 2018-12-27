@@ -2,6 +2,13 @@
 layout: content
 title: "ScalableBody: A Telepresence Robot that Supports Face Position Matching using a Vertical Actuator"
 permalink: /projects/scalable_body
+image: /assets/images/research/scalable_body/thumb.jpg
+date: 2016-10-16
+tag:
+- 2016
+- 2017
+- 2018
+- research
 ---
 
 ![](/assets/images/research/scalable_body/top.jpg)

@@ -5,37 +5,43 @@ permalink: /projects/
 ---
 
 # Research Project
-![](/assets/project/research/scalable_body.jpg)
+
+![](/assets/images/research/lunavity/thumb.jpg)
+
+[Lunavity](/projects/lunavity)
+
+<hr>
+![](/assets/images/research/scalable_body/thumb.jpg)
 
 [ScalableBody](/projects/scalable_body)
 
 <hr>
-![](/assets/project/research/casper.jpg)
+![](/assets/images/research/casper/thumb.jpg)
 
 [CASPER: A Haptic Enhanced Telepresence Exercise System for Elderly People](/projects/casper)
 
 <hr>
-![](/assets/project/research/aeonkit.jpg)
+![](/assets/images/research/aeonkit/thumb.jpg)
 
 [Wearable Device Prototyping Toolkit](/projects/aeonkit)
 
 <hr>
 # Others
-![](/assets/project/others/emot.jpg)
+![](/assets/images/others/emot/thumb.jpg)
 
 [EmoT](/projects/emot)
 
 <hr>
-![](/assets/project/others/groove.jpg)
+![](/assets/images/others/groove/thumb.jpg)
 
 [GROOVE](/projects/groove)
 
 <hr>
-![](/assets/project/others/ambient_pixel.jpg)
+![](/assets/images/others/ambient_pixel/thumb.jpg)
 
 [AmbientPixel](/projects/ambient_pixel)
 
 <hr>
-![](/assets/project/others/nusurface.jpg)
+![](/assets/images/others/nusurface/thumb.jpg)
 
 [NuSurface](/projects/nusurface)

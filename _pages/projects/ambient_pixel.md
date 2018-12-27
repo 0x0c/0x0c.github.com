@@ -2,6 +2,8 @@
 layout: content
 title: AmbientPixel
 permalink: /projects/ambient_pixel
+image: /assets/images/others/ambient_pixel/thumb.jpg
+date: 2015-10-24
 ---
 
 ![](/assets/images/others/ambient_pixel/top.jpg)

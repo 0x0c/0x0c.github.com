@@ -2,6 +2,10 @@
 layout: content
 title: NuSurface
 permalink: /projects/nusurface
+image: /assets/images/others/nusurface/thumb.jpg
+date: 2010-01-01
+tag:
+- 2010
 ---
 
 ![](/assets/images/others/nusurface/top.jpg)

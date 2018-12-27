@@ -2,6 +2,12 @@
 layout: content
 title: Wearable Device Prototyping Toolkit
 permalink: /projects/aeonkit
+date: 2015-03-05
+image: /assets/images/research/aeonkit/thumb.jpg
+tag:
+- 2015
+- 2016
+- research
 ---
 
 ![](/assets/images/research/aeonkit/top.jpg)

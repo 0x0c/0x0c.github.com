@@ -2,6 +2,10 @@
 layout: content
 title: GROOVE
 permalink: /projects/groove
+image: /assets/images/others/groove/thumb.jpg
+date: 2017-12-16
+tag:
+- 2017
 ---
 
 ![](/assets/images/others/groove/top.jpg)

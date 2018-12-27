@@ -2,6 +2,10 @@
 layout: content
 title: EmoT / EmoT eye
 permalink: /projects/emot
+image: /assets/images/others/emot/thumb.jpg
+date: 2017-07-07
+tag:
+- 2017
 ---
 
 ![](/assets/images/others/emot/top.jpg)

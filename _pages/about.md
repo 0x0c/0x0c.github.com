@@ -38,28 +38,36 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
   - B.E. in Computer Science, School of Engineering, Shibaura Institute of Technology, Tokyo, Japan
 
 ## Publication
+
+### Journal
+- 
+
 ### International conference (oral / refereed)
 - **Akira Matsuda**, Takashi Miyaki, Jun Rekimoto, **ScalableBody: A Telepresence Robot Supporting Face Position Matching using Vertical Actuator**. In Proceedings of the 8th Augmented Human International Conference 2017 (AH'17), 2017.
-  - [Here](https://dl.acm.org/citation.cfm?id=3041182)
+  - [DOI](https://dl.acm.org/citation.cfm?id=3041182)
 - Azusa Kadomura, **Akira Matsuda**, Jun Rekimoto. **CASPER: A Haptic Enhanced Telepresence Exercise System for Elderly People**. In Proceedings of the 7th Augmented Human International Conference 2016 (AH '16), 2017.
-  - [Here](http://dx.doi.org/10.1145/2875194.2875197)
+  - [DOI](http://dx.doi.org/10.1145/2875194.2875197)
   - Acceptance Rate 15%
 
 ### Workshop (oral / refereed)
 - **Akira Matsuda**, Jun Rekimoto. **ScalableBody : A Telepresence Robot with Vertical Actuation for Face-to-face Communication and Human Augmentation**. 1st Asian Workshop on User Interface (AUI 2016)
 
 ### International conference (oral / non-refereed)
-- **Akira Matsuda**, Hiroyuki Nakamura. **Wearable Assistive Device Development Toolkit**. 31st Annual International Technology and Persons with Disabilities Conference.
-International conference, 2016.
+- **Akira Matsuda**, Hiroyuki Nakamura. **Wearable Assistive Device Development Toolkit**. 31st Annual International Technology and Persons with Disabilities Conference, 2016.
 - **Akira Matsuda**, Jun Rekimoto. **ScalableBody: A Telepresence Robot Supporting Socially Acceptable Interactions and Human Augmentation through Vertical Actuation**. In Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16 Adjunct), 2016.
-  - [Here](http://dx.doi.org/10.1145/2984751.2985718)
+  - [DOI](http://dx.doi.org/10.1145/2984751.2985718)
 
-### International conference (Poster / refereed)
+### International conference (Demo or Poster / refereed)
+- **Akira Matsuda**, Kazunori Nozawa, and Jun Rekimoto. **JackIn Neck: A Neckband Wearable Telepresence System Designed for High Comfortability**. In Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces (ISS '18), 2018.
+  - [DOI](https://doi.org/10.1145/3279778.3279917)
+- Takumi Takahashi, Keisuke Shiro, **Akira Matsuda**, Ryo Komiyama, Hayato Nishioka, Kazunori Hori, Yoshio Ishiguro, Takashi Miyaki, and Jun Rekimoto. **Augmented jump: a backpack multirotor system for jumping ability augmentation**. In Proceedings of the 2018 ACM International Symposium on Wearable Computers (ISWC '18), 2018.
+  - [DOI](https://doi.org/10.1145/3267242.3267270)
 - **Akira Matsuda**, Midori Sugaya, Hiroyuki Nakamura. **Luminous device for the deaf and hard of hearing people**. In Proceedings of the second international conference on Human-agent interaction (HAI '14), 2014.
-  - [Here](http://doi.acm.org/10.1145/2658861.2658922)
+  - [DOI](http://doi.acm.org/10.1145/2658861.2658922)
   - Acceptance Rate 44%
 
 ### Domestic conference (oral / non-refereed)
+- **松田 暁（東大）**, 加藤 淳, 尾形 正泰, 濱崎 雅弘, 後藤 真孝（産総研）, 暦本 純一（東大／Sony CSL）, **同期的共同作業における空間的指示を補助するカーソル拡張型コミュニケーション手法**, 日本ソフトウェア科学会インタラクティブシステムとソフトウェアに関する研究会 WISS2018, 2018.
 - **松田 暁**, 加藤 淳, 尾形 正泰, 濱崎 雅弘, 後藤 真孝, 暦本 純一. **同期的共同作業における作業者の存在感を増強するカーソル拡張型コミュニケーション手段**. 第4回 プログラミング体験勉強会(SIGPX) (口頭発表), 2018.
 - **松田 暁**, 中村 広幸. **社会情報学研究のためのウェアラブルデバイス開発支援ツール**. 日本計画行政学会・社会情報学会共催 第9回若手研究交流会. (口頭発表), 2015.
 - **松田 暁**, 中村 広幸, 菅谷 みどり. **Luminous Sound Indicator: 光を用いた音源を察知するための注意喚起デバイス**. HCI, ヒューマンコンピュータインタラクション研究会報告 vol. 2014 (25) p. 1-6. 情報処理学会研究報告. 第157回 ヒューマンコンピュータインタラクション研究会, 2014.
