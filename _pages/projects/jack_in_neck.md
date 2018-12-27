@@ -23,3 +23,5 @@ We present a wearable telepresence system, JackIn Neck, that can be worn on the 
 - Akira Matsuda, Kazunori Nozawa, and Jun Rekimoto. 2018. JackIn Neck: A Neckband Wearable Telepresence System Designed for High Comfortability. In Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces (ISS '18). ACM, New York, NY, USA, 415-418. DOI: [https://doi.org/10.1145/3279778.3279917](https://doi.org/10.1145/3279778.3279917)
 
 ## Links
+
+- [Rekimoto Lab/Projects/JackInNeck](https://lab.rekimoto.org/projects/jack_in_neck/)
