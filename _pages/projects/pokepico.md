@@ -12,7 +12,7 @@ tag:
 ![](/assets/images/others/pokepico/sub1.jpg)
 ![](/assets/images/others/pokepico/sub2.jpg)
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/watch?v=CPdk3D8L0Ec" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPdk3D8L0Ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ポケピコは、名刺サイズ大のチップチューンガジェットです。MIDI over BLEでiPhoneやiPadにつながり、ポケットに入れておけば、いつでもどこでもPSG音源を演奏できます。また、カートリッジを交換することで音源チップを取り替えることができます。今回の出展では、SAA1099、SN76489、AY-3-8910の各音源カートリッジを展示する予定です。
 

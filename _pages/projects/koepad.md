@@ -10,7 +10,7 @@ tag:
 
 ![](/assets/images/work/koepad/top.jpg)
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/watch?v=oWdvj0tsk6A" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oWdvj0tsk6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 自分の「声」は好きですか？また、いくつかの声の中から「自分の声」を聞き分けることはできるでしょうか？このアプリでは録音した声の高さや速度を変化させ、自分の声に似たさまざまな声を作り出すことができます。それらの声の中から、自分の声を選択できるかどうか実験してみましょう。また、自分の声だけでなく、他者の声についてはどうでしょうか？この実験を通して人間の「声の記憶」や「声の特徴」を調べ、考えてみましょう。
 

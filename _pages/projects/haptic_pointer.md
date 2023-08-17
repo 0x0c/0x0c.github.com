@@ -11,8 +11,7 @@ tag:
 
 ![](/assets/images/research/haptic_pointer/top.jpg)
 
-
-<iframe width="560" height="315" src="https://youtu.be/iQNrvIVX7Us" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iQNrvIVX7Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We designed a necklace-style device named HapticPointer for presenting a direction as pointing cues in remote collaboration tasks. The device has 16 vibration motors placed along a line of flexible string. Our vibration algorithm represents horizontal and vertical directions by changing the position and intensity of each vibration. In our experiment, participants attempted to find a specific target, and the accuracy of successful trials reached 90.65%. Moreover, the participants found the targets in 6 seconds on average. Furthermore, our user study implies that the device can simulates the sensation of walking together. It is assumed that the sensation improves engagement between the local and remote users.
 

@@ -11,7 +11,7 @@ tag:
 ![](/assets/images/others/singing_cobweb/top.jpg)
 ![](/assets/images/others/singing_cobweb/sub.png)
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/watch?v=sxSDEZ2X-sc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sxSDEZ2X-sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 毛糸で作られた、手編みのクモの巣のオブジェです。観客が触れるとクラシック音楽を奏でるようにプログラムされている、インターラクティヴなサウンド・アート。触れる箇所によって、聞こえる楽器の音が変わるため、美しい合奏を聴くためには、より多くの鑑賞人が作品に接しなくてはなりません。オーケストラの合奏を奏でようと奮闘する姿は、クモの巣に捕まり、必死にもがく人のようにも見えます。
 

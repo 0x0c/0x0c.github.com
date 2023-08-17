@@ -11,8 +11,7 @@ tag:
 ![](/assets/images/work/konashi-ios-sdk/top.jpg)
 ![](/assets/images/work/konashi-ios-sdk/sub.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PK-boEFdObk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PK-boEFdObk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 konashiは、スマートフォンからデバイスを制御する開発環境を提供するフィジカルコンピューティングツールキットです。
 マイコン側でファームウェアを開発する必要がなく、エンジニアだけでなくデザイナーやアーティストなど誰でも手軽にものづくりを始めることができます。
