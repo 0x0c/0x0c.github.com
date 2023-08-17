@@ -40,10 +40,15 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
 ## Publication
 
 ### Journal
+- **Akira Matsuda**, Toru Okuzono, Hiromi Nakamura, Hideaki Kuzuoka, and Jun Rekimoto. 2021. A Surgical Scene Replay System for Learning Gastroenterological Endoscopic Surgery Skill by Multiple Synchronized-Video and Gaze Representation. Proc. ACM Hum.-Comput. Interact. 5, EICS, Article 204 (June 2021), 2021.
+  - [DOI](https://doi.org/10.1145/3461726)
+  - Acceptance Rate 33%
 - **松田 暁**, 味八木 崇, 暦本 純一, **伸縮機構と全周囲映像を用いた身長可変型テレプレゼンスロボットの提案**. ヒューマンインタフェース学会論文誌 Vol.20, No.3, 2018.
   - [DOI](https://doi.org/10.11184/his.20.3_289)
 
 ### International conference (oral / refereed)
+- **Akira Matsuda**, Kazunori Nozawa, Kazuki Takata, Atsushi Izumihara, and Jun Rekimoto. **HapticPointer: A Neck-worn Device that Presents Direction by Vibrotactile Feedback for Remote Collaboration Tasks**. In Proceedings of the Augmented Humans International Conference (AHs '20), 2020. **Honorable Mentions Award (優秀論文賞)**
+  - [DOI](https://doi.org/10.1145/3384657.3384777), [News](https://www.sonycsl.co.jp/news/10443/), [Video](https://www.youtube.com/watch?v=l0S0LTVj5h0&t=268s)
 - **Akira Matsuda**, Takashi Miyaki, Jun Rekimoto, **ScalableBody: A Telepresence Robot Supporting Face Position Matching using Vertical Actuator**. In Proceedings of the 8th Augmented Human International Conference 2017 (AH'17), 2017.
   - [DOI](https://dl.acm.org/citation.cfm?id=3041182)
 - Azusa Kadomura, **Akira Matsuda**, Jun Rekimoto. **CASPER: A Haptic Enhanced Telepresence Exercise System for Elderly People**. In Proceedings of the 7th Augmented Human International Conference 2016 (AH '16), 2017.
@@ -59,6 +64,8 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
   - [DOI](http://dx.doi.org/10.1145/2984751.2985718)
 
 ### International conference (Demo or Poster / refereed)
+- Yuki Takeda, **Akira Matsuda**, and Jun Rekimoto, **3D Human Reconstruction from an Image for Mobile Telepresence Systems**. 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2020.
+  - [DOI](https://doi.org/10.1109/VRW50115.2020.00237)
 - **Akira Matsuda**, Kazunori Nozawa, and Jun Rekimoto. **JackIn Neck: A Neckband Wearable Telepresence System Designed for High Comfortability**. In Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces (ISS '18), 2018.
   - [DOI](https://doi.org/10.1145/3279778.3279917)
 - Takumi Takahashi, Keisuke Shiro, **Akira Matsuda**, Ryo Komiyama, Hayato Nishioka, Kazunori Hori, Yoshio Ishiguro, Takashi Miyaki, and Jun Rekimoto. **Augmented jump: a backpack multirotor system for jumping ability augmentation**. In Proceedings of the 2018 ACM International Symposium on Wearable Computers (ISWC '18), 2018.

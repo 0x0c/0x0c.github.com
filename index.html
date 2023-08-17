@@ -4,13 +4,13 @@ title: Home
 ---
 <section class="c-archives">
     <div class="main-grid">
-        {% assign projects=(site.pages | sort: 'date' ) | reverse %}
+        {% assign projects=site.pages | sort: 'date' | reverse %}
         {% for page in projects %}
-        {% if page.path contains 'projects/' %}
-        <a href="{{ page.url }}">
-            <img src="{{ page.image }}" />
-        </a>
-        {% endif %}
+            {% if page.path contains 'projects/' %}
+            <a href="{{ page.url }}">
+                <img src="{{ page.image }}" />
+            </a>
+            {% endif %}
         {% endfor %}
     </div>
 </section>
