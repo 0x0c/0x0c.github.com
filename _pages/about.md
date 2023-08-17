@@ -8,7 +8,7 @@ permalink: /about/
 
 Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He received his B.E. degree in computer science from Shibaura Institute of Technology and M.A.S. degree in interdisciplinary information studies from The University of Tokyo, in 2011 and 2017, respectively. His research interests include Human-Computer Interaction (HCI), Human Augmentation, Telepresence, and Remote Collaboration. He is focusing not only on communication by language but also on communication using nonverbal information such as eye contact, gaze, facial expression, and body cues.
 
-[Resume](../assets/akira_matsuda.pdf), [ResearchGate](https://www.researchgate.net/profile/Akira_Matsuda5), [Github](https://github.com/0x0c), [LinkedIn](https://www.linkedin.com/in/akira-matsuda-425181140/), [Qiita](https://qiita.com/0x0c@github)
+[Resume](../assets/akira_matsuda.pdf), [ResearchGate](https://www.researchgate.net/profile/Akira_Matsuda5), [Github](https://github.com/0x0c), [LinkedIn](https://www.linkedin.com/in/akira-matsuda-425181140/), [Qiita](https://qiita.com/0x0c@github), [Zenn](https://zenn.dev/0x0c)
 
 <div class="github-card" data-github="0x0c" data-width="100%" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
