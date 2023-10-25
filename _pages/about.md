@@ -6,7 +6,11 @@ permalink: /about/
 
 ![](../assets/akira2.jpg)
 
-Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He received his B.E. degree in computer science from Shibaura Institute of Technology and M.A.S. degree in interdisciplinary information studies from The University of Tokyo, in 2011 and 2017, respectively. His research interests include Human-Computer Interaction (HCI), Human Augmentation, Telepresence, and Remote Collaboration. He is focusing not only on communication by language but also on communication using nonverbal information such as eye contact, gaze, facial expression, and body cues.
+Akira is an HCI researcher and a software engineer.
+He received his Ph.D. in Interdisciplinary Information Studies, master's degree in Arts and Sciences from The University of Tokyo, and bachelor's degree in Engineering from Shibaura Institute of Technology in 2023, 2017, and 2015, respectively.
+
+His role in Human-Computer Interaction is to create a future in which we transfer our personalities to communicate or collaborate remotely with high engagement.
+He is focusing not only on communication by language but also on communication using nonverbal messages through an act of seeing, such as gaze behavior and eye contact, by proposing an approach for presenting the nonverbal message modalities that differ from face-to-face communication and go beyond physical constraints.
 
 [Resume](../assets/akira_matsuda.pdf), [ResearchGate](https://www.researchgate.net/profile/Akira_Matsuda5), [Github](https://github.com/0x0c), [LinkedIn](https://www.linkedin.com/in/akira-matsuda-425181140/), [Qiita](https://qiita.com/0x0c@github), [Zenn](https://zenn.dev/0x0c)
 
@@ -17,8 +21,8 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
 
 ## Education
 
-- **April 2017 - present**
-  - Ph.D. candidate in Interdisciplinary Information Studies, Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan
+- **April 2017 - August 2023**
+  - Ph.D. in Interdisciplinary Information Studies, Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan
   - Supervisor: Jun Rekimoto
 
 - **April 2015 - March 2017**
@@ -30,6 +34,10 @@ Akira Matsuda is currently a Ph.D. student at The University of Tokyo, He receiv
   - Supervisor: Hiroyuki Nakamura
 
 ## Academic Qualification
+
+- **2023**
+  - Ph.D. (Interdisciplinary Information Studies), Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan
+  - Supervisor: Jun Rekimoto
 
 - **March 2017**
   - M.A.S. in Interdisciplinary Information Studies, Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan

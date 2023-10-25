@@ -21,4 +21,4 @@ Gastroenterological endoscopic surgery needs complex surgical skills such as a s
 
 ## Links
 
-- [Rekimoto Lab/Projects/Surgical Scene Replay System](https://lab.rekimoto.org/projects/ssrs/)
+- [Rekimoto Lab/Projects/Surgical Scene Replay System](https://lab.rekimoto.org/projects/a-surgical-scene-replay-system-for-learning-gastroenterological-endoscopic-surgery-skill-by-multiple-synchronized-video-and-gaze-representation/)
