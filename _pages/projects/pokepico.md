@@ -3,9 +3,9 @@ layout: content
 title: ポケピコ
 permalink: /projects/pokepico
 image: /assets/images/others/pokepico/thumb.jpg
-date: 2020-11-28
+date: 2019-08-04
 tag:
-- 2020
+- 2019
 ---
 
 ![](/assets/images/others/pokepico/top.jpg)
