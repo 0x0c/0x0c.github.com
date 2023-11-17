@@ -6,7 +6,7 @@ permalink: /about/
 
 ![](../assets/akira2.jpg)
 
-Akira is an HCI researcher and a software engineer.
+Akira Matsuda is an HCI researcher and a software engineer.
 He received his Ph.D. in Interdisciplinary Information Studies, master's degree in Arts and Sciences from The University of Tokyo, and bachelor's degree in Engineering from Shibaura Institute of Technology in 2023, 2017, and 2015, respectively.
 
 His role in Human-Computer Interaction is to create a future in which we transfer our personalities to communicate or collaborate remotely with high engagement.
@@ -21,29 +21,17 @@ He is focusing not only on communication by language but also on communication u
 
 ## Education
 
-- **April 2017 - August 2023**
-  - Ph.D. in Interdisciplinary Information Studies, Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan
-  - Supervisor: Jun Rekimoto
-
-- **April 2015 - March 2017**
-  - M.A.S. in Interdisciplinary Information Studies Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan
-  - Supervisor: Jun Rekimoto
-
-- **April 2011 - March 2015**
-  - B.E. in Computer Science, School of Engineering, Shibaura Institute of Technology, Tokyo, Japan
-  - Supervisor: Hiroyuki Nakamura
-
-## Academic Qualification
-
-- **2023**
+- **November 2023**
   - Ph.D. (Interdisciplinary Information Studies), Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan
-  - Supervisor: Jun Rekimoto
+  - Advisor: Jun Rekimoto
 
 - **March 2017**
   - M.A.S. in Interdisciplinary Information Studies, Graduate School of Interdisciplinary Information Studies, The University of Tokyo, Tokyo, Japan
+  - Advisor: Jun Rekimoto
 
 - **March 2015**
   - B.E. in Computer Science, School of Engineering, Shibaura Institute of Technology, Tokyo, Japan
+  - Advisor: Hiroyuki Nakamura
 
 ## Publication
 
