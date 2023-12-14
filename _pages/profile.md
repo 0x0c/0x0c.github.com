@@ -1,12 +1,12 @@
 ---
 layout: content
-title: About
-permalink: /about/
+title: Profile
+permalink: /profile/
 ---
 
 ![](../assets/akira2.jpg)
 
-Akira Matsuda is an HCI researcher and a software engineer.
+Dr. Akira Matsuda is a researcher and a software engineer.
 He received his Ph.D. in Interdisciplinary Information Studies, master's degree in Arts and Sciences from The University of Tokyo, and bachelor's degree in Engineering from Shibaura Institute of Technology in 2023, 2017, and 2015, respectively.
 
 His role in Human-Computer Interaction is to create a future in which we transfer our personalities to communicate or collaborate remotely with high engagement.
