@@ -11,6 +11,8 @@ github_username: "0x0c"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.0x0c.me" # the base hostname & protocol for your site
 
+future: true
+
 google_analytics_id: UA-115069395-1
 disqus_id:
 
