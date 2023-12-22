@@ -12,7 +12,7 @@ He received his Ph.D. in Interdisciplinary Information Studies, master's degree 
 His role in Human-Computer Interaction is to create a future in which we transfer our personalities to communicate or collaborate remotely with high engagement.
 He is focusing not only on communication by language but also on communication using nonverbal messages through an act of seeing, such as gaze behavior and eye contact, by proposing an approach for presenting the nonverbal message modalities that differ from face-to-face communication and go beyond physical constraints.
 
-[Resume](../assets/akira_matsuda.pdf), [ResearchGate](https://www.researchgate.net/profile/Akira_Matsuda5), [Github](https://github.com/0x0c), [LinkedIn](https://www.linkedin.com/in/akira-matsuda-425181140/), [Qiita](https://qiita.com/0x0c@github), [Zenn](https://zenn.dev/0x0c)
+[Resume](../assets/akira_matsuda.pdf), [ResearchGate](https://www.researchgate.net/profile/Akira_Matsuda5), [GitHub](https://github.com/0x0c), [LinkedIn](https://www.linkedin.com/in/akira-matsuda-425181140/), [Qiita](https://qiita.com/0x0c@github), [Zenn](https://zenn.dev/0x0c)
 
 <div class="github-card" data-github="0x0c" data-width="100%" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
